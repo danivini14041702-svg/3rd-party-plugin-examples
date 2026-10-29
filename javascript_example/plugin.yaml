@@ -13,14 +13,14 @@ providerData:
   iconUrl: "https://placehold.co/favicon.ico"
   serviceUrl: "https://example.com"
   handleUrls:
-    - "https://example.com/home"
-    - "https://example.com/search"
-    - "https://example.com/video"
+    - "https://xvideos.com/"
+    - "https://xvideos.com/search"
+    - "https://xvideos.com/video"
     - "https://example.com/author"
 
 initialPageCounts:
-  initialHomePage: 0
-  initialSearchResultsPage: 0
-  initialCommentsPage: 0
-  initialVideoSuggestionsPage: 0
+  initialHomePage: 1
+  initialSearchResultsPage: 1
+  initialCommentsPage: 2
+  initialVideoSuggestionsPage: 10
   initialAuthorVideosPage: 0
